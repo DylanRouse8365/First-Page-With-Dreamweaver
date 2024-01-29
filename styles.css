@@ -1,0 +1,42 @@
+@charset "utf-8";
+body {background-color: #000;}
+.pagebox{
+	background-color: #9B0003;
+	width: 70%;
+	margin: auto;
+}
+
+h1{
+	font-family: arial, sans-serif;
+	font-weight: 1000;
+	color: #FFFFFF;
+	font-size: 50px;
+	
+}
+
+nav{
+	background-color: #000;
+	color: #ffffff;
+	padding: 10px;
+	
+}
+
+img{
+	width: 50%
+}
+
+h2{
+	font-family: arial, sans-serif;
+	color: #ffffff
+	
+}
+
+p{
+	font-family: arial, sans-serif;
+	color:#ffffff;
+	
+}
+
+footer{
+	text-align: center;
+}
